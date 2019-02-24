@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_ac"
+        android:icon="@drawable/home"
+        android:title="HOME" />
+    <item
+        android:id="@+id/navigation_acc"
+        android:icon="@drawable/add"
+        android:title="ADD A PRODUCT" />
+
+    <item
+        android:id="@+id/navigation_calorie"
+        android:icon="@drawable/update"
+        android:title="UPDATE" />
+    <item
+        android:id="@+id/navigation_workout"
+        android:icon="@drawable/order"
+        android:title="MY ORDERS" />
+
+    <item
+        android:id="@+id/navigation_statistics"
+        android:icon="@drawable/employee"
+        android:title="EMPLOYEE REQUEST" />
+
+</menu>
